@@ -1,0 +1,21 @@
+{
+  "name": "use-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-retry": "^3.1.2",
+    "express": "^4.17.0",
+    "https-proxy-agent": "^2.2.1",
+    "node-request-queue": "^1.0.2",
+    "request": "^2.88.0",
+    "tunnel": "0.0.6"
+  }
+}
